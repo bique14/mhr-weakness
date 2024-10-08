@@ -1,0 +1,28 @@
+[
+  {
+    "name": "aknosom",
+    "image": "/src/assets/monster/aknosom.png",
+    "weakness": [
+      { "element": "water", "ratio": 3 },
+      { "element": "thunder", "ratio": 2 }
+    ],
+    "quest": {
+      "low": ["Shady Monster", "Feathered Frenzy", "Special License Quest 1"],
+      "high": [
+        "Dancing Parasol, Snowy Breeze",
+        "Study the Sword & Shield",
+        "Dancing A-purr-ition",
+        "Dastardly Vile Aknosom Trio",
+        "Invoke the Insect Glaive"
+      ],
+      "master": [
+        "Anomaly Research: Aknosom",
+        "It Could be Worse...",
+        "A Grand Gesture",
+        "Bird Wyvern Jamboree",
+        "In His Master's Footsteps",
+        "Operation Jungle Rumble"
+      ]
+    }
+  }
+]

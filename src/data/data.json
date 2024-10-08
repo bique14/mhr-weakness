@@ -1,11 +1,8 @@
 [
   {
-    "name": "aknosom",
+    "name": "Aknosom",
     "image": "/src/assets/monster/aknosom.png",
-    "weakness": [
-      { "element": "water", "ratio": 3 },
-      { "element": "thunder", "ratio": 2 }
-    ],
+    "weakness": "water",
     "quest": {
       "low": ["Shady Monster", "Feathered Frenzy", "Special License Quest 1"],
       "high": [
@@ -23,6 +20,229 @@
         "In His Master's Footsteps",
         "Operation Jungle Rumble"
       ]
+    }
+  },
+  {
+    "name": "Almudron",
+    "image": "/src/assets/monster/almudron.png",
+    "weakness": "fire",
+    "quest": {
+      "low": [
+        "Tail to Tail",
+        "Down 'n' Dirty",
+        "Hermit of the Swamp",
+        "Special License Quest 3"
+      ],
+      "high": [
+        "Almudron: Fashion Victim",
+        "Rampage: Muddi Gras",
+        "USJ - Shrine Showdown!",
+        "Ruckus in the Ruins",
+        "A Muddy Invitation",
+        "Master Utsushi's Challenge Part 1"
+      ],
+      "master": [
+        "Anomaly Research: Almudron",
+        "A Muddy Revival",
+        "Trial of the Almudron",
+        "Desert Lost and Found",
+        "Operation Almudron",
+        "A Mysterious Purr-esent",
+        "Quit Spooking My Lunch!"
+      ]
+    }
+  },
+  {
+    "name": "Amatsu",
+    "image": "/src/assets/monster/amatsu.png",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Hazard: Melody of Mayhem",
+        "Destructive Dragon Deity",
+        "The Sun Will Rise Again"
+      ]
+    }
+  },
+  {
+    "name": "Anjanath",
+    "image": "https://img.game8.co/3375853/e8910d0cd4b8113ae5c35b82ecae902d.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": ["Bully of the Caverns", "Nosey Nuisances", "Nocturnal Tracker"],
+      "high": [
+        "Showdown in the Arena",
+        "Dissect the Dual Blades",
+        "Closer Than it Appears",
+        "Monster Maniacs",
+        "Fought, Failed, Fired Up",
+        "Master Utsushi's Challenge Part 4"
+      ],
+      "master": [
+        "Anomaly Research: Anjanath",
+        "Operation Anjanath",
+        "Provoking an Anjanath's Wrath",
+        "Hunting is All the Rage",
+        "Nocturnal Nuisances",
+        "Desert Lost and Found",
+        "Studying Starvation Effects",
+        "Operation Citadel Situation",
+        "Operation Hot Pursuit",
+        "Fear in the Flooded Forest",
+        "Dance of The Fierce Flame"
+      ]
+    }
+  },
+  {
+    "name": "Arzuros",
+    "image": "https://img.game8.co/3375825/8b4afac41e73e555c03bee439e1eada4.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [
+        "A Grizzly Encounter",
+        "Grizzly Glutton",
+        "The Rampage Approaches",
+        "Third Wheel"
+      ],
+      "high": [
+        "Divine Comedy",
+        "Blue, Round, and Cute",
+        "Wrestling with Pain",
+        "USJ - Arzuros Onslaught!"
+      ],
+      "master": ["Anomaly Research: Arzuros", "Catnap Ruined"]
+    }
+  },
+  {
+    "name": "Astalos",
+    "image": "https://img.game8.co/3538226/9692c75569ed0d860d92e5035709b4ee.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Astalos",
+        "Flash of Inspiration",
+        "Rumbling Tummy, Rumbling Thunder",
+        "Jade Membrane, Sapphire Claws",
+        "Troublemaking Trio Pt. 2",
+        "An Electrifying Grace",
+        "Operation Astalos",
+        "In Search of the Doctor",
+        "The Terrible Threes",
+        "Operation Thunder-Clad",
+        "I Need My Beauty Sleep!",
+        "Adorned Arena",
+        "Advanced: True King of the Skies"
+      ]
+    }
+  },
+  {
+    "name": "Aurora Somnacanth",
+    "image": "https://img.game8.co/3542022/ee732d5a0b318f02afdbd0971a837c07.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Aurora Somnacanth",
+        "Minor Inconveniences",
+        "Passion Melts Ice",
+        "Stitching a Wintry Wardrobe",
+        "Operation Aurora Somnacanth",
+        "Keep it Busy",
+        "Purr-ivate Eye",
+        "Buddy Rescue Operation",
+        "Unavoidable Cold",
+        "Operation Mermaid Tale",
+        "Get Off My Stage!",
+        "Premarital Socks",
+        "Four Beast Quartet"
+      ]
+    }
+  },
+  {
+    "name": "Barioth",
+    "image": "https://img.game8.co/3375847/821f78ac1f2a29bdab9a7cca99087375.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": ["White Knight vs. Hunter", "Raging White-out"],
+      "high": [
+        "Arena 04",
+        "Grasp the Gunlance",
+        "Sharpening Amber Fangs",
+        "Heart of a Ninja",
+        "Frost Bites"
+      ],
+      "master": [
+        "Anomaly Research: Barioth",
+        "Another Grand Gesture",
+        "White Knight Vs. New Knight",
+        "White Knight on Ice",
+        "Operation Barioth",
+        "White Knight, Armored Warrior",
+        "Citadel Security",
+        "Operation Frozen Rescue"
+      ]
+    }
+  },
+  {
+    "name": "Barroth",
+    "image": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [
+        "Arena 02",
+        "So Muddy Hardheaded!",
+        "Disastrously Beautiful",
+        "Fightin' Dirty"
+      ],
+      "high": [
+        "Honing Your Hammer",
+        "Rise Above the Mud",
+        "Kunai Ask You a Favor?"
+      ],
+      "master": [
+        "Anomaly Research: Barroth",
+        "Barroth to a Great Start",
+        "Wild Growth",
+        "Operation Sandy Situation"
+      ]
+    }
+  },
+  {
+    "name": "xx",
+    "image": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show",
+
+    "weakness": "xx",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": []
+    }
+  },
+  {
+    "name": "xx",
+    "image": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show",
+
+    "weakness": "xx",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": []
+    }
+  },
+  {
+    "name": "xx",
+    "image": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show",
+
+    "weakness": "xx",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": []
     }
   }
 ]

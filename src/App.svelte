@@ -27,6 +27,22 @@
       });
     }
   }
+
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("/sw.js").then(
+        (registration) => {
+          console.log(
+            "ServiceWorker registered with scope:",
+            registration.scope,
+          );
+        },
+        (error) => {
+          console.log("ServiceWorker registration failed:", error);
+        },
+      );
+    });
+  }
 </script>
 
 <main class="m-auto flex h-full w-10/12 flex-col items-center gap-4 py-10">

@@ -1,7 +1,7 @@
 [
   {
     "name": "Aknosom",
-    "image": "/src/assets/monster/aknosom.png",
+    "image": "https://img.game8.co/3375839/39e5672424274560ff04123ec77f9532.png/show",
     "weakness": "water",
     "quest": {
       "low": ["Shady Monster", "Feathered Frenzy", "Special License Quest 1"],
@@ -24,7 +24,7 @@
   },
   {
     "name": "Almudron",
-    "image": "/src/assets/monster/almudron.png",
+    "image": "https://img.game8.co/3375842/df4dd8964844c2f324aa7170ccab80cb.png/show",
     "weakness": "fire",
     "quest": {
       "low": [
@@ -54,7 +54,7 @@
   },
   {
     "name": "Amatsu",
-    "image": "/src/assets/monster/amatsu.png",
+    "image": "https://img.game8.co/3679156/a388047cff96636556be4603d509465d.png/show",
     "weakness": "dragon",
     "quest": {
       "low": [],

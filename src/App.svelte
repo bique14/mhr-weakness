@@ -6,6 +6,10 @@
   let searchQuery: string = "";
   let filteredMonster: any = [];
 
+  function onClearSearchQuery() {
+    searchQuery = "";
+  }
+
   $: {
     if (selectedOption === "monster") {
       filteredMonster = Monster.filter((monster) =>
@@ -54,10 +58,21 @@
       <option value="monster" selected>Monster</option>
       <option value="quest">Quest</option>
     </select>
-    <input
-      class="w-full rounded-lg border-2 border-[rgba(1,1,1,0.4)] p-4 outline-none"
-      bind:value={searchQuery}
-    />
+
+    <div class="relative w-full">
+      <input
+        class="w-full rounded-lg border-2 border-[rgba(1,1,1,0.4)] p-4 outline-none"
+        bind:value={searchQuery}
+      />
+      {#if searchQuery.length}
+        <button
+          class="absolute right-0.5 top-0.5 rounded p-4 text-gray-500"
+          on:click={onClearSearchQuery}
+        >
+          x
+        </button>
+      {/if}
+    </div>
   </div>
 
   <div class="h-full w-full overflow-auto">

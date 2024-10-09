@@ -213,36 +213,1484 @@
     }
   },
   {
-    "name": "xx",
+    "name": "Basarios",
+    "image": "https://img.game8.co/3375830/ecdef4687fd6d56783712031f6f0a11f.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": ["Blasted Basarios!", "Off Your Rocker"],
+      "high": [
+        "Hone Your Heavy Bowgun",
+        "Miner Problem",
+        "Knight in Shattered Armor",
+        "Arena 06"
+      ],
+      "master": [
+        "Anomaly Research: Basarios",
+        "Pent-Up Frustrations",
+        "Skulking Among the Sand",
+        "Basarios Buzzkill",
+        "Desert Lost and Found",
+        "Operation Double Basarios",
+        "Wild Growth",
+        "A Request From Your Superior"
+      ]
+    }
+  },
+  {
+    "name": "Bazelgeuse",
+    "image": "https://img.game8.co/3375855/a94f869946426db1b1c55cec32b2893a.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [
+        "Advanced: The Veterans' Gala",
+        "Arena 06",
+        "Boomy Dango",
+        "Death From Above",
+        "Advanced: Dual Calamities",
+        "Return of the Bazelgeuse"
+      ],
+      "master": [
+        "Anomaly Research: Bazelgeuse",
+        "Fear in the Flooded Forest",
+        "Fire Vs. Fire",
+        "Bazelgeuse Warning",
+        "Bombs and Beams",
+        "Life is Full of Ups and Downs",
+        "Operation Bazelgeuse",
+        "Trials of Passion and Composure",
+        "Bested by Bazelgeuse",
+        "Operation Explosive Anger"
+      ]
+    }
+  },
+  {
+    "name": "Bishaten",
     "image": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show",
-
+    "weakness": "ice",
+    "quest": {
+      "low": [
+        "I Want Off This Ride",
+        "Tail to Tail",
+        "Monkey Wrench in Your Plans",
+        "Special License Quest 2"
+      ],
+      "high": [
+        "Soaring Desire",
+        "Grasp the Great Sword",
+        "Rotten Fruit",
+        "Nothing to Sneeze At!",
+        "Rampage: Muddi Gras",
+        "USJ - Arzuros Onslaught!"
+      ],
+      "master": [
+        "Anomaly Research: Bishaten",
+        "Fruit Vs. Firearms",
+        "Sour Grapes",
+        "A Dangerous Dare",
+        "Operation Bishaten",
+        "In His Master's Footsteps",
+        "Troublemaker Trio",
+        "Operation Jungle Rumble"
+      ]
+    }
+  },
+  {
+    "name": "Blood Orange Bishaten",
+    "image": "https://img.game8.co/3542021/d8a3143832b13c4362a84fc89054db99.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Blood Orange Bishaten",
+        "MR Arena 02",
+        "A Grand Gesture",
+        "The Assault of the Scarlet Tengu",
+        "Skulking Among the Sand",
+        "Pinecone Pelting Panic",
+        "Operation Blood Orange Bishaten",
+        "Scarlet Tengu in the Shrine Ruins",
+        "Hunting is All the Rage",
+        "The Hot and Cold Treatment",
+        "Operation Citadel Situation",
+        "Hell's Jingle Bells",
+        "Four Beast Quartet",
+        "Dance of The Fierce Flame"
+      ]
+    }
+  },
+  {
+    "name": "Chameleos",
+    "image": "https://img.game8.co/3375817/608617c2cb31e431e9a4b2cae6cf3f4e.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [],
+      "high": [
+        "Fooled in the Flooded Forest",
+        "Heart of Might",
+        "Advanced: Scaredy-Cat",
+        "Ancient Illusion"
+      ],
+      "master": [
+        "Buddy Dress-Up Party",
+        "Leave No Trace Behind",
+        "Beyond the Silence",
+        "...And a Triple Scoop of Pain",
+        "Invisible Threat",
+        "Sticky Secret Sticking Sauce",
+        "Mystery Shrouded in Mist",
+        "Operation Chameleos",
+        "Operation Foggy Jungle",
+        "Advanced: Monster Hunter!"
+      ]
+    }
+  },
+  {
+    "name": "Chaotic Gore Magala",
+    "image": "https://img.game8.co/3615586/bb1abbada681a7cac98afa232e57264b.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Chaotic Gore Magala",
+        "Dual Threat: Seething Chaos",
+        "Falling Into Chaos",
+        "Advanced: Infestation Infiltration"
+      ]
+    }
+  },
+  {
+    "name": "Crimson Glow Valstrax",
+    "image": "https://img.game8.co/3375829/22ec5e366be8f2b9d745f815195e1402.png/show",
+    "weakness": "raw",
+    "quest": {
+      "low": [],
+      "high": [
+        "Advanced: Crimson Calamity",
+        "Advanced: The Fallen Comet",
+        "The Evil Star from Beyond",
+        "The Crimson Glow"
+      ],
+      "master": [
+        "Dual Threat: Destructive Stars",
+        "Collision Course Comet",
+        "Advanced: Hail to the Fierce",
+        "Mysterious Glow",
+        "Operation Jungle Comet",
+        "Star at Worlds End"
+      ]
+    }
+  },
+  {
+    "name": "Daimyo Hermitaur",
+    "image": "https://img.game8.co/3542034/9cbddf24825feebb244555969f380160.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Daimyo Hermitaur",
+        "MR Arena 01",
+        "Daimyo and Pearls",
+        "The Jungle Guidebook",
+        "Supply Line Shell Game",
+        "Uninvited Guest",
+        "Rock, Paper, Pincers",
+        "The Mother of All Medicines!?",
+        "Flooded Forest Feast",
+        "Flooded Forest Probe",
+        "Punches and Pincers"
+      ]
+    }
+  },
+  {
+    "name": "Diablos",
+    "image": "https://img.game8.co/3375843/7b9cfb8ccd544f53fb0c18848c1543b3.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": ["A Few Bumps Along the Way", "Twisted Desire"],
+      "high": [
+        "Heart of a Hero",
+        "Kunai Ask You a Favor?",
+        "Fought, Failed, Fired Up",
+        "A Quartet of Horns",
+        "Subterranean Disturbances",
+        "Advanced: Proof of Power"
+      ],
+      "master": [
+        "Anomaly Research: Diablos",
+        "Running Out of Ideas",
+        "Wild Growth",
+        "Dust Devil Despot",
+        "Monju Mashup!",
+        "Wicked Wyvern Trilogy",
+        "Front Row Seat",
+        "Life is Full of Ups and Downs",
+        "Dangers in the Dark Desert"
+      ]
+    }
+  },
+  {
+    "name": "Espinas",
+    "image": "https://img.game8.co/3542027/094b9fab96ac1b78370d7e4a2a01f43d.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Espinas",
+        "MR Arena 05",
+        "Moonlit Espinascapade",
+        "Operation Espinas",
+        "A Slumbering Jungle Espinas",
+        "Buddy Dress-Up Party",
+        "Stats on Statuses, Stat!",
+        "Adorned Arena",
+        "Unbridled Mayhem",
+        "Winds that Burn",
+        "Advanced: Espinaptime",
+        "Operation Foggy Jungle"
+      ]
+    }
+  },
+  {
+    "name": "Flaming Espinas",
+    "image": "https://img.game8.co/3588186/bbc357e037e782dcec7140b595b257c5.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Flaming Espinas",
+        "Hazard: Legendary Strike",
+        "Advanced: Toxic Trio",
+        "Advanced: Espinaptime",
+        "Advanced: Eternal Flame",
+        "Operation Flaming Espinas",
+        "What Sleeps in the Tower"
+      ]
+    }
+  },
+  {
+    "name": "Furious Rajang",
+    "image": "https://img.game8.co/3542036/6f4b8bc92b8f04b69ef96be91c4e2206.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Furious Rajang",
+        "MR Arena 06",
+        "Dual Threat: Revelry of Destruction",
+        "Dual Threat: Destructive Stars",
+        "I Need My Beauty Sleep!",
+        "Dual Threat: Light & Darkness",
+        "Hazard: Swole Simian Silliness",
+        "Hazard: Swole Simian Silliness",
+        "Rage That Never Dies",
+        "Unreasonable Rage",
+        "Advanced: The Gold Standard",
+        "Operation Furious Golden Fur",
+        "Pierce the Heavens"
+      ]
+    }
+  },
+  {
+    "name": "Gaismagorm",
+    "image": "https://img.game8.co/3542026/0710d0a08cd221bc524672a09e2776fb.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": ["The Devil's Reincarnation", "Proof of Courage"]
+    }
+  },
+  {
+    "name": "Garangolm",
+    "image": "https://img.game8.co/3542024/e03932b3d23ecd153378d5320b2f882f.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Garangolm",
+        "MR Arena 03",
+        "Minor Inconveniences",
+        "Another Grand Gesture",
+        "A Tough Lesson",
+        "A Tale of Two Titans",
+        "Garangolm Gone Mad",
+        "Operation Garangolm",
+        "A Rocky Rampage",
+        "Spooky Citadel!?",
+        "Citadel Security",
+        "Thousand Cuts, Totally Crushed",
+        "Quit Spooking My Lunch!",
+        "Operation Double Garangolm",
+        "Hazard: GRRRRRangolm!",
+        "Monster Mash"
+      ]
+    }
+  },
+  {
+    "name": "Gold Rathian",
+    "image": "https://img.game8.co/3560001/68c7a67057cd3230dc70946b154852a3.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Gold Rathian",
+        "Dual Threat: A Song of Silver and Gold",
+        "Knights, Show Thy Valiance!",
+        "Rare Species Snapshot",
+        "Advanced: The Gold Standard",
+        "Advanced: Toxic Trio",
+        "Advanced: Jungle Fervor",
+        "Operation Gold Rathian",
+        "A Single Beam of Moonlight"
+      ]
+    }
+  },
+  {
+    "name": "Gore Magala",
+    "image": "https://img.game8.co/3542030/d6381694576ed57eef4fe5376375dc6c.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Gore Magala",
+        "Unknown Invader",
+        "Dark Wings, Dark Work",
+        "Operation Gore Magala",
+        "Roar of the Black Eclipse",
+        "The Flame that Burns Within",
+        "Blade Cloaked in Darkness",
+        "Stats on Statuses, Stat!",
+        "Operation Ogre Gore",
+        "A Dress to Die For",
+        "Sticky Secret Sticking Sauce",
+        "Unbridled Mayhem",
+        "Mystery Shrouded in Mist",
+        "Advanced: Trade Obstruction"
+      ]
+    }
+  },
+  {
+    "name": "Goss Harag",
+    "image": "https://img.game8.co/3375831/476d64742ce0576ac29ea55888135070.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [
+        "Heart of a Warrior",
+        "Beastly Chaos",
+        "The Blizzard Blender",
+        "Abominable Snow-beast"
+      ],
+      "high": [
+        "Challenge Quest 06",
+        "An Icy Blade So Bright",
+        "Frost Bites",
+        "A Frosty Stalemate",
+        "It's Gonna Get You!",
+        "Master Utsushi's Challenge Part 2",
+        "Advanced: Monsters in Ink"
+      ],
+      "master": [
+        "Anomaly Research: Goss Harag",
+        "Sisters Sally Forth",
+        "Oh, My Garsh Harag",
+        "The Hot and Cold Treatment",
+        "Freedom from a Frigid Future!",
+        "Operation Cold Case",
+        "Purr-ivate Eye",
+        "Operation Night Stalker",
+        "Advanced: Carnival Carnage"
+      ]
+    }
+  },
+  {
+    "name": "Great Baggi",
+    "image": "https://img.game8.co/3375834/49412e0102a7d3d2abee1df7b90d078c.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [
+        "Bird Wyverns of Ruin?",
+        "No Cure for the Common Baggi",
+        "Out Cold"
+      ],
+      "high": ["Didn't Get the Memo", "Learning the Light Bowgun"],
+      "master": [
+        "Anomaly Research: Great Baggi",
+        "Rookie Hunters Welcome!",
+        "BRRRR Plus ZZZzzz Equals?",
+        "Now That's What I Call Great!"
+      ]
+    }
+  },
+  {
+    "name": "Great Izuchi",
+    "image": "https://img.game8.co/3375821/1c7c3f8adb34aa1b4232db1eba4ca4f8.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [
+        "Bird Wyverns of Ruin?",
+        "Jumped in the Frost Islands",
+        "Great Izuchi, Great Pain",
+        "Special License Quest 2"
+      ],
+      "high": [
+        "The Swirling Gale",
+        "Honing your Hunting Horn",
+        "Memories of That Day"
+      ],
+      "master": [
+        "Anomaly Research: Great Izuchi",
+        "Rookie Hunters Welcome!",
+        "Reap What You Saw",
+        "Shrine Ruined",
+        "Now That's What I Call Great!"
+      ]
+    }
+  },
+  {
+    "name": "Great Wroggi",
+    "image": "https://img.game8.co/3375835/01659bbcf15707f8094c6521e3681c12.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [
+        "Wroggi Place, Wroggi Time",
+        "The Rampage Approaches",
+        "Obnoxious Lord, Noxious Monster"
+      ],
+      "high": [
+        "Donning Toxicity",
+        "Learning the Light Bowgun",
+        "Rampage: Enchanting Parade",
+        "Rajang's Holiday Special"
+      ],
+      "master": [
+        "Anomaly Research: Great Wroggi",
+        "Rookie Hunters Welcome!",
+        "[REDACTED]",
+        "Now That's What I Call Great!"
+      ]
+    }
+  },
+  {
+    "name": "Jyuratodus",
+    "image": "https://img.game8.co/3375832/4ad3ce2b553aaa409704c677e8409fe2.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [
+        "Charge Blade Coalescing",
+        "The Restless Swamp",
+        "Troubled Waters",
+        "Do it for the Dango!"
+      ],
+      "master": [
+        "Anomaly Research: Jyuratodus",
+        "A Fire to Jyuratodouse",
+        "Messed Up Situation",
+        "A Shocking, Sloppy Synthesis",
+        "Troublemaker Trio",
+        "Operation Swampy Suspects"
+      ]
+    }
+  },
+  {
+    "name": "Khezu",
+    "image": "https://img.game8.co/3375827/fd31aad1bc69327678bf83b2970ca713.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": ["A Pale Shadow", "Faceless Foe", "BZZZZZ or ZZZZzzzz"],
+      "high": [
+        "Study the Switch Axe",
+        "Night of the Khezu",
+        "Shadows Over the Frost",
+        "Zin and Yang",
+        "Omnidirectional Threats"
+      ],
+      "master": [
+        "Anomaly Research: Khezu",
+        "The Alabaster Devourer",
+        "In Pursuit of the Khezuit",
+        "BZZZZZ or ZZZZzzzz Pt. 2",
+        "Operation Khezu",
+        "Another Grand Gesture",
+        "Sisters Sally Forth",
+        "Noisy Neighbors"
+      ]
+    }
+  },
+  {
+    "name": "Kulu-Ya-Ku",
+    "image": "https://img.game8.co/3375845/8943aefc725dbacc3bed0f4fdffab0b6.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [
+        "Arena 01",
+        "Bird Wyverns of Ruin?",
+        "Tired and Feathered",
+        "Walking on Eggshells",
+        "Nosey Nuisances"
+      ],
+      "high": ["Divine Comedy", "Totally Not Cool, Kulu"],
+      "master": [
+        "Anomaly Research: Kulu-Ya-Ku",
+        "Harvest Boon",
+        "Need a Hunter, ASAP!",
+        "Bird Wyvern Jamboree",
+        "Another Grand Gesture",
+        "Operation Hot Pursuit"
+      ]
+    }
+  },
+  {
+    "name": "Kushala Daora",
+    "image": "https://img.game8.co/3375833/e93cc5d3e65273955239fc2c82b28d96.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [
+        "Tempest in the Desert",
+        "Heart of Might",
+        "Advanced: Of Storm and Fire",
+        "The Steely Storm"
+      ],
+      "master": [
+        "The Terrible Threes",
+        "For a Song and a Rain Dance",
+        "A Cold Wind Blows",
+        "The Frozen Dictator",
+        "Storm of The Kushala Daora",
+        "Operation Kushala Daora",
+        "Shadow in the Sandstorm",
+        "...And a Triple Scoop of Pain",
+        "Winds that Burn",
+        "Advanced: Twisted Tag Team",
+        "Advanced: Monster Hunter!"
+      ]
+    }
+  },
+  {
+    "name": "Lagombi",
+    "image": "https://img.game8.co/3375837/eaa377f71e2a8545213a792c8c143bcf.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": ["A Snowball's Chance...", "Bouncing Brawlers", "Rabid Rabbit"],
+      "high": [
+        "The Tiniest Snowbaron!",
+        "Study the Switch Axe",
+        "Even Cute Things Have Fangs",
+        "Frost Bites"
+      ],
+      "master": [
+        "Anomaly Research: Lagombi",
+        "Harvest Boon",
+        "BRRRR Plus ZZZzzz Equals?",
+        "The Good, the Bad, and Lagombi",
+        "Hunting is All the Rage",
+        "Operation Cold Case",
+        "Operation Citadel Situation",
+        "Operation Frozen Rescue"
+      ]
+    }
+  },
+  {
+    "name": "Lucent Nargacuga",
+    "image": "https://img.game8.co/3560004/cdda058e8f1c270674afecbfad246879.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Dual Threat: Moonlit Muscles",
+        "Cutting Through Darkness",
+        "Rare Species Snapshot",
+        "Advanced: Toxic Trio",
+        "Advanced: Scarlet Shindig",
+        "Hazard: The Hazy Shadow",
+        "Operation Lucent Nargacuga",
+        "The Invisible Predator"
+      ]
+    }
+  },
+  {
+    "name": "Lunagaron",
+    "image": "https://img.game8.co/3542029/bb31d50499116fa61d4b9713d96ffb25.png/show",
     "weakness": "xx",
     "quest": {
       "low": [],
       "high": [],
+      "master": [
+        "Anomaly Research: Lunagaron",
+        "MR Arena 04",
+        "Purr-ivate Eye",
+        "Noisy Neighbors",
+        "Freezing Fangs",
+        "Breaking the Ice",
+        "Howling Moon",
+        "Give a Girl Some Fluff!",
+        "Unavoidable Cold",
+        "Spooky Citadel!?",
+        "Operation Lunagaron",
+        "Ice Wolf, Red Moon",
+        "The Terrible Threes",
+        "Stats on Statuses, Stat!",
+        "Evil Forest",
+        "Operation Night Stalker",
+        "Gathering of the Qurio",
+        "A Dress to Die For",
+        "Hazard: Lunag-awoooooooon!",
+        "Advanced: Jungle Fervor",
+        "Advanced: Edge of Madness",
+        "Monster Mash",
+        "Operation Dominion"
+      ]
+    }
+  },
+  {
+    "name": "Magma Almudron",
+    "image": "https://img.game8.co/3542033/e4411018551832fc457d585fa4571e89.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Magma Almudron",
+        "Hell's Jingle Bells",
+        "Hot Mud in Your Eye",
+        "Impassioned Cavern Crawl",
+        "Operation Fire Dweller",
+        "Four Beast Quartet"
+      ]
+    }
+  },
+  {
+    "name": "Magnamalo",
+    "image": "https://img.game8.co/3375822/4db4a66935ea447d206947feaec92d81.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [
+        "Heart of a Warrior",
+        "Disastrously Beautiful",
+        "Hellfire",
+        "Comeuppance",
+        "Special License Quest 2",
+        "A Test of Courage"
+      ],
+      "high": [
+        "Advanced: The Veterans' Gala",
+        "Challenge Quest 04",
+        "Challenge Quest 06",
+        "Rampage: Kamura Night Hunt",
+        "Blazin' Soul of a Warrior",
+        "USJ - Shrine Showdown!",
+        "Memories of That Day",
+        "Seared Situation",
+        "Clad in Hellfire",
+        "Master Utsushi's Challenge Part 3",
+        "Advanced: Dual Calamities",
+        "Advanced: Proof of Power"
+      ],
+      "master": [
+        "Anomaly Research: Magnamalo",
+        "Enshrined Resentment",
+        "Purging Hatred",
+        "A Keen-Eyed Observation",
+        "Stitching a Wintry Wardrobe",
+        "Tempering the Fierce",
+        "Operation Magnamalo",
+        "White Knight, Armored Warrior",
+        "Operation Purple Fire",
+        "Food Fight",
+        "Flagship Fight",
+        "Lava Caverns Litter Box",
+        "Unbridled Mayhem",
+        "Operation Double Magnamalo"
+      ]
+    }
+  },
+  {
+    "name": "Malzeno",
+    "image": "https://img.game8.co/3538227/50a2e89705ced509645dbc70b7073ebd.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Crimson Moonlight",
+        "Witness by Moonlight",
+        "Dual Threat: A Returning Rush of Red",
+        "Flagship Fight",
+        "Advanced: Hail to the Fierce",
+        "Sticky Secret Sticking Sauce",
+        "Monster Mash",
+        "Trials of Passion and Composure",
+        "Advanced: In Pursuit of the Truth",
+        "Advanced: Resplendent Silver",
+        "Advanced: Edge of Madness",
+        "Advanced: Scarlet Shindig",
+        "Advanced: Trade Obstruction",
+        "Advanced: Infestation Infiltration",
+        "Operation Dominion"
+      ]
+    }
+  },
+  {
+    "name": "Mizutsune",
+    "image": "https://img.game8.co/3375823/dbe2ed198bb33237f732f67f95dadf8c.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [
+        "My Muse the Mizutsune",
+        "Waltzing by Moonlight",
+        "Like a Flash of Lightning"
+      ],
+      "high": [
+        "Troubled Waters",
+        "Showdown in the Arena",
+        "Learn the Long Sword",
+        "A Bewitching Dance",
+        "Rampage: Enchanting Parade",
+        "Memories of That Day",
+        "Ruckus in the Ruins",
+        "Advanced: Monsters in Ink"
+      ],
+      "master": [
+        "Anomaly Research: Mizutsune",
+        "Beaten to the Punch",
+        "A Mysterious Purr-esent",
+        "Cherry Blossoms in Battle",
+        "A Mizutsune's Appeal",
+        "Quit Spooking My Lunch!",
+        "An Electrifying Grace",
+        "Operation Mizutsune",
+        "For a Song and a Rain Dance",
+        "Hard & Soft Supreme",
+        "Operation Mermaid Tale",
+        "Get Off My Stage!",
+        "Dance of the Cherry Blossoms"
+      ]
+    }
+  },
+  {
+    "name": "Nargacuga",
+    "image": "https://img.game8.co/3375836/bfe852a06204a318c78f95d6d78d7cb9.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": ["Arena 03", "Twilit Twin Stars", "Wind Speed Wyvern"],
+      "high": [
+        "Do it for the Dango!",
+        "The Abyss Stares Back",
+        "Beast of the Shadows",
+        "Heart of a Ninja",
+        "Super Shady Look-alike",
+        "A Whirlwind of a Stage",
+        "Master Utsushi's Challenge Part 3"
+      ],
+      "master": [
+        "Anomaly Research: Nargacuga",
+        "Into the Jungle Deep",
+        "Shadow in the Jungle",
+        "Shady Activity",
+        "Tempering the Fierce",
+        "Operation Nargacuga",
+        "Troublemaking Trio Pt. 2",
+        "Cutting Through Darkness",
+        "Advanced: Hail to the Fierce"
+      ]
+    }
+  },
+  {
+    "name": "Narwa the Allmother",
+    "image": "https://img.game8.co/3365218/f222f77a4ded5afee2396d66325b8d39.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": ["Advanced: Born of Paradise", "The Allmother"],
+      "master": [
+        "Spine-Tingling Divinity - Reprise",
+        "Spine-Tingling Divinity]"
+      ]
+    }
+  },
+  {
+    "name": "Primordial Malzeno",
+    "image": "https://img.game8.co/3722393/c36cf25f7ca6aac4d304aef1d97bd56f.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Dual Threat: Banquet of Beauty",
+        "Daily Practice",
+        "Legend Resurrected",
+        "Hazard: Primordial Pest",
+        "Harbinger of Destruction"
+      ]
+    }
+  },
+  {
+    "name": "Pukei-Pukei",
+    "image": "https://img.game8.co/3375840/8fa204bde9e6e4abe37ac5393da7e0f3.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": ["Way of the Pukei", "A Poisonous Project"],
+      "high": ["Soaring Desire", "Honing Your Hammer", "Go Away, Pukei!"],
+      "master": [
+        "Anomaly Research: Pukei-Pukei",
+        "Poison Drops in the Sand",
+        "Studying Starvation Effects",
+        "Fear in the Flooded Forest",
+        "Front Row Seat",
+        "Dangers in the Dark Desert",
+        "Operation Sandy Plains"
+      ]
+    }
+  },
+  {
+    "name": "Pyre Rakna-Kadaki",
+    "image": "https://img.game8.co/3542028/04fa4376a72ed622e1548abcaad192d4.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Pyre Rakna-Kadaki",
+        "Noisy Neighbors",
+        "A Mighty Need",
+        "Power Struggle",
+        "Buddy Rescue Operation",
+        "Operation Pyre Rakna-Kadaki",
+        "The Torrid Trio",
+        "Four Beast Quartet",
+        "Bringing Back That Sparkle"
+      ]
+    }
+  },
+  {
+    "name": "Rajang",
+    "image": "https://img.game8.co/3375731/3aa2a4ce2686fc21796cc841f401cf6e.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [
+        "Advanced: The Veterans' Gala",
+        "Arena 05",
+        "SF: Ultimate Promotion Exam",
+        "Rajang's Holiday Special",
+        "Rampage: Rampaging Rajang",
+        "Occupational Hazards",
+        "Evil Afoot",
+        "Master Utsushi's Challenge Part 2",
+        "May Fire Quell Fury",
+        "Advanced: Scaredy-Cat"
+      ],
+      "master": [
+        "Anomaly Research: Rajang",
+        "Punches and Pincers",
+        "Cheering Ra Ra Rajang",
+        "Grabbin' Life by the Horns",
+        "Settle the Score!",
+        "Bombs and Beams",
+        "Hard & Soft Supreme",
+        "With the Power of Friendship...",
+        "Operation Rajang",
+        "Food Fight",
+        "Hazard: Buffoon's Buff Baboon Swoon",
+        "Trials of Passion and Composure",
+        "The Ultimate Fight?",
+        "Advanced: Trade Obstruction",
+        "Monkey-Crab Turf War",
+        "Operation Explosive Anger"
+      ]
+    }
+  },
+  {
+    "name": "Rakna-Kadaki",
+    "image": "https://img.game8.co/3375732/175efe6a43782d47e739c2a49a99aeb9.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [
+        "Challenge Quest 05",
+        "White Desert Blossom",
+        "Princesses' Banquet",
+        "Omnidirectional Threats",
+        "A Blaze Among Beasts",
+        "Advanced: The Fallen Comet",
+        "Master Utsushi's Challenge Part 5",
+        "Can't Kill It with Fire"
+      ],
+      "master": [
+        "Anomaly Research: Rakna-Kadaki",
+        "A Sandy Spider Nest",
+        "Power Struggle",
+        "Impassioned Cavern Crawl",
+        "Operation Sandy Situation",
+        "Front Row Seat",
+        "Dangers in the Dark Desert"
+      ]
+    }
+  },
+  {
+    "name": "Rathalos",
+    "image": "https://img.game8.co/3375852/a574997232739440d53272f4c026d119.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [
+        "Champion of the Caverns",
+        "Rathalos Alert!",
+        "King of the Sky, Bane of the Land",
+        "Special License Quest 3"
+      ],
+      "high": [
+        "Knight in Shattered Armor",
+        "Red Skies at Night",
+        "A Good Old-Fashioned Rampage",
+        "Seared Situation",
+        "Master Utsushi's Challenge Part 5",
+        "Advanced: Proof of Power"
+      ],
+      "master": [
+        "Anomaly Research: Rathalos",
+        "Forbidden Waltz",
+        "Not Your Average Picnic",
+        "King of the Crumbling Castle",
+        "Impassioned Cavern Crawl",
+        "Operation Rathalos",
+        "Operation Purple Fire",
+        "The Torrid Trio",
+        "Burning Air, Trembling Earth",
+        "Operation Magma Region",
+        "Dance of The Fierce Flame"
+      ]
+    }
+  },
+  {
+    "name": "Rathian",
+    "image": "https://img.game8.co/3375824/61edbf2cebf19d0b9502e3a6d6562274.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [
+        "Fried and Baptized",
+        "The Path to Royalty",
+        "Special License Quest 1",
+        "The Queen's Procession"
+      ],
+      "high": [
+        "Learn the Lance",
+        "Charmed by a Queen",
+        "Dissect the Dual Blades",
+        "Rampage: Kamura Night Hunt",
+        "Kunai Ask You a Favor?",
+        "Princesses' Banquet",
+        "A Blaze Among Beasts"
+      ],
+      "master": [
+        "Anomaly Research: Rathian",
+        "An Audience With the Queen",
+        "Shrine Ruined",
+        "The Queen's Garden",
+        "A Dangerous Dare",
+        "Operation Rathian",
+        "In His Master's Footsteps",
+        "The Mother of All Medicines!?",
+        "Tempering the Fierce",
+        "Forbidden Waltz",
+        "Pincers Versus Pyro",
+        "Operation Fire Dweller"
+      ]
+    }
+  },
+  {
+    "name": "Risen Chameleos",
+    "image": "https://img.game8.co/3588184/9b8726e6962edccd8593263d89e1def3.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": ["Anomaly Research: Chameleos", "Risen Chameleos"]
+    }
+  },
+  {
+    "name": "Risen Crimson Glow Valstrax",
+    "image": "https://img.game8.co/3641339/a37e743a30dbeb2b20ce22d6bba2c08b.png/show",
+    "weakness": "raw",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Crimson Glow Valstrax",
+        "Risen Crimson Glow Valstrax"
+      ]
+    }
+  },
+  {
+    "name": "Risen Kushala Daora",
+    "image": "https://img.game8.co/3615585/6c6b9758cfdc1ca2cc7bcb99d22748f0.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": ["Anomaly Research: Kushala Daora", "Risen Kushala Daora"]
+    }
+  },
+  {
+    "name": "Risen Shagaru Magala",
+    "image": "https://img.game8.co/3679155/427756a3f98e018100c1d1aaaae4adf0.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": ["Anomaly Research: Shagaru Magala", "Risen Shagaru Magala"]
+    }
+  },
+  {
+    "name": "Risen Teostra",
+    "image": "https://img.game8.co/3615589/93be23f0bfc1974c99d6f00938b17325.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": ["Anomaly Research: Teostra", "Risen Teostra"]
+    }
+  },
+  {
+    "name": "Royal Ludroth",
+    "image": "https://img.game8.co/3375848/eb809a7360d5bc614d44cab174f74d33.png/show",
+    "weakness": "fire",
+    "quest": {
+      "low": [
+        "Fried and Baptized",
+        "The Flooding Flooded Forest",
+        "Arena 03",
+        "Spongy Oasis"
+      ],
+      "high": [
+        "Soaring Desire",
+        "Charge Blade Coalescing",
+        "Foul Play in the Forest"
+      ],
+      "master": [
+        "Anomaly Research: Royal Ludroth",
+        "You Had Me at Poofy",
+        "The Jungle Guidebook",
+        "Troublemaker Trio",
+        "Operation Swampy Suspects",
+        "For a Song and a Rain Dance"
+      ]
+    }
+  },
+  {
+    "name": "Scorned Magnamalo",
+    "image": "https://img.game8.co/3542025/c59624851e5c99c4f1bcc0793926a4b9.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Scorned Magnamalo",
+        "Dual Threat: Light & Darkness",
+        "Dual Threat: Animose Crossing",
+        "Daily Practice",
+        "Advanced: In Pursuit of the Truth",
+        "Operation Wrath",
+        "Back with a Vengeance"
+      ]
+    }
+  },
+  {
+    "name": "Seething Bazelgeuse",
+    "image": "https://img.game8.co/3560003/98ac395d54edfe678d6aaad02a81a107.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Seething Bazelgeuse",
+        "Dual Threat: Go Out with a Bang!",
+        "Starting with a Bang",
+        "Dual Threat: Seething Chaos",
+        "Advanced: Unflinching Walk",
+        "Operation Seething Bazelgeuse",
+        "Raining Fire"
+      ]
+    }
+  },
+  {
+    "name": "Seregios",
+    "image": "https://img.game8.co/3542031/b71bc78849406985179dceab2b80f218.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Seregios",
+        "Dust off Those Hunting Boots",
+        "A Thousand Scales of Dread",
+        "Thousand Cuts, Totally Crushed",
+        "Troublemaking Trio Pt. 2",
+        "Wicked Wyvern Trilogy",
+        "Operation Seregios",
+        "Blade Cloaked in Darkness",
+        "Operation Sandy Plains",
+        "True Hunters",
+        "Advanced: Hail to the Fierce",
+        "Advanced: True King of the Skies",
+        "Operation Dancing Blades"
+      ]
+    }
+  },
+  {
+    "name": "Shagaru Magala",
+    "image": "https://img.game8.co/3542023/a1ae9ac26c169c42978bbe341bf264aa.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "With the Power of Friendship...",
+        "Dark Citadel, White Wheel",
+        "Dual Threat: A Returning Rush of Red",
+        "Brightly Shining Disaster",
+        "True Hunters",
+        "Operation Dancing Blades"
+      ]
+    }
+  },
+  {
+    "name": "Shogun Ceanataur",
+    "image": "https://img.game8.co/3542032/a4e70c7d038e98de9ca48bebd1b3ee70.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Shogun Ceanataur",
+        "Rock, Paper, Pincers",
+        "My Ceanataur Gently Weeps",
+        "Operation Shogun Ceanataur",
+        "Flooded Forest Feast",
+        "Pincers Versus Pyro",
+        "Jade Membrane, Sapphire Claws",
+        "Flooded Forest Probe",
+        "Punches and Pincers",
+        "Advanced: Edge of Madness",
+        "Monkey-Crab Turf War"
+      ]
+    }
+  },
+  {
+    "name": "Silver Rathalos",
+    "image": "https://img.game8.co/3560002/0aded2abeec4fbd333ab019be7e04ca5.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Anomaly Research: Silver Rathalos",
+        "Dual Threat: A Song of Silver and Gold",
+        "Ooooh Shiny...?",
+        "Adorned Arena",
+        "Rare Species Snapshot",
+        "Advanced: True King of the Skies",
+        "Operation Silver Rathalos",
+        "Explore the Unexplored"
+      ]
+    }
+  },
+  {
+    "name": "Somnacanth",
+    "image": "https://img.game8.co/3375773/ea876522ccce52c15466de5ceeca8e33.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [
+        "Beckoning Slumber",
+        "Infernal Lacrimosa",
+        "BZZZZZ or ZZZZzzzz",
+        "The Secret Ingredient"
+      ],
+      "high": [
+        "Troubled Waters",
+        "Invoke the Insect Glaive",
+        "A Somniferous Elegy",
+        "Challenge Quest 06",
+        "I Can't Do What Somnacan",
+        "Princesses' Banquet"
+      ],
+      "master": [
+        "Anomaly Research: Somnacanth",
+        "Somnacanth Sleep Aid",
+        "BZZZZZ or ZZZZzzzz Pt. 2",
+        "Sisters Sally Forth",
+        "A Tale of Two Titans",
+        "Freedom from a Frigid Future!",
+        "Operation Cold Case",
+        "A Mysterious Purr-esent",
+        "Operation Frozen Rescue",
+        "Premarital Socks"
+      ]
+    }
+  },
+  {
+    "name": "Teostra",
+    "image": "https://img.game8.co/3375828/923b1710619f179e30b04305621ad21e.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [],
+      "high": [
+        "Scorching Showdown",
+        "Heart of Might",
+        "Advanced: Of Storm and Fire",
+        "The Emperor of Flame"
+      ],
+      "master": [
+        "The Torrid Trio",
+        "The Fire Still Burns",
+        "Burn Brighter Than the Sun",
+        "Emperor of Flame",
+        "Operation Teostra",
+        "...And a Triple Scoop of Pain",
+        "Dance of The Fierce Flame",
+        "Bringing Back That Sparkle",
+        "Advanced: Unflinching Walk",
+        "Operation T'd Off",
+        "Advanced: Monster Hunter!"
+      ]
+    }
+  },
+  {
+    "name": "Tetranadon",
+    "image": "https://img.game8.co/3375851/80940cc69c4a37e6d7da946e8e52a55a.png/show",
+    "weakness": "thunder",
+    "quest": {
+      "low": [
+        "Challenge Quest 01",
+        "Bouncing Brawlers",
+        "Dead Ringer",
+        "Can't Stomach the Thought",
+        "Third Wheel",
+        "The Hottest Around"
+      ],
+      "high": [
+        "Honing your Hunting Horn",
+        "The Frost Islands Arena",
+        "Wrestling with Pain",
+        "Shadows Over the Frost",
+        "Out of Sight, Out of Mind's Eye",
+        "USJ - Shrine Showdown!",
+        "A Frosty Stalemate"
+      ],
+      "master": [
+        "Anomaly Research: Tetranadon",
+        "The Jungle Guidebook",
+        "Tetranadon Blockade",
+        "A Fond Fur-Well",
+        "Freedom from a Frigid Future!",
+        "Operation Jungle Rumble"
+      ]
+    }
+  },
+  {
+    "name": "Thunder Serpent Narwa",
+    "image": "https://img.game8.co/3375838/569f5c652e827b7e44ffe848d75cd12c.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": ["Clouds of Narwa Rumble Again", "Serpent Goddess of Thunder"],
       "master": []
     }
   },
   {
-    "name": "xx",
-    "image": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show",
-
-    "weakness": "xx",
+    "name": "Tigrex",
+    "image": "https://img.game8.co/3375849/8353de000124c6b1931c0c9169435684.png/show",
+    "weakness": "thunder",
     "quest": {
-      "low": [],
-      "high": [],
-      "master": []
+      "low": [
+        "Beastly Chaos",
+        "A Friend in Need",
+        "King of the Sky, Bane of the Land",
+        "Thundering Voice"
+      ],
+      "high": [
+        "Challenge Quest 03",
+        "Heart of a Hero",
+        "Rampage: Kamura Night Hunt",
+        "Monster Maniacs",
+        "A Whirlwind of a Stage",
+        "A Resounding Roar",
+        "A Blaze Among Beasts",
+        "Advanced: Monsters in Ink",
+        "Master Utsushi's Challenge Part 4"
+      ],
+      "master": [
+        "Anomaly Research: Tigrex",
+        "Running Out of Ideas",
+        "Destructive Instructor",
+        "Absolute Power",
+        "Give a Girl Some Fluff!",
+        "A Request From Your Superior",
+        "Wicked Wyvern Trilogy",
+        "Operation Tigrex",
+        "Burning Air, Trembling Earth",
+        "Seismic Scares",
+        "Operation Magma Region",
+        "Unbridled Mayhem",
+        "Operation T'd Off"
+      ]
     }
   },
   {
-    "name": "xx",
-    "image": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show",
-
-    "weakness": "xx",
+    "name": "Tobi-Kadachi",
+    "image": "https://img.game8.co/3375850/263257d06340489821ced578df94954f.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [
+        "Disastrously Beautiful",
+        "Zigzagging Zapper",
+        "Streaking Shadow",
+        "Like a Flash of Lightning"
+      ],
+      "high": [
+        "Be One with the Bow",
+        "Skies are Gray",
+        "Heart of a Ninja",
+        "A Whirlwind of a Stage"
+      ],
+      "master": [
+        "Anomaly Research: Tobi-Kadachi",
+        "Flicker in the Night",
+        "Rumble in the Jungle",
+        "A Fond Fur-Well",
+        "A Shocking, Sloppy Synthesis",
+        "Operation Tobi-Kadachi",
+        "Nocturnal Nuisances",
+        "A Keen-Eyed Observation",
+        "The Mother of All Medicines!?",
+        "Operation Thunder-Clad"
+      ]
+    }
+  },
+  {
+    "name": "Velkhana",
+    "image": "https://img.game8.co/3641340/9f582a0ee916ff86ff3066e1c93ad271.png/show",
+    "weakness": "fire",
     "quest": {
       "low": [],
       "high": [],
-      "master": []
+      "master": [
+        "Cooling the Caverns",
+        "Hazard: Winter Warning",
+        "Dual Threat: Banquet of Beauty",
+        "Clashing Swords Upon the Rime",
+        "Advanced: Twisted Tag Team"
+      ]
+    }
+  },
+  {
+    "name": "Violet Mizutsune",
+    "image": "https://img.game8.co/3588185/b0783de517916410a71c01d84434c91b.png/show",
+    "weakness": "ice",
+    "quest": {
+      "low": [],
+      "high": [],
+      "master": [
+        "Dual Threat: Moonlit Muscles",
+        "Hazard: Dance of Disaster",
+        "Rare Species Snapshot",
+        "Advanced: Eternal Flame",
+        "Operation Violet Mizutsune",
+        "A Mysterious Pale Flame"
+      ]
+    }
+  },
+  {
+    "name": "Volvidon",
+    "image": "https://img.game8.co/3375841/ed93dfa62bf630a6ebda5003ce0fc8db.png/show",
+    "weakness": "water",
+    "quest": {
+      "low": [
+        "Reinventing the Wheel",
+        "A Song of Red and Fire",
+        "The Hottest Around"
+      ],
+      "high": [
+        "Hone Your Heavy Bowgun",
+        "Bowled Over",
+        "Knight in Shattered Armor",
+        "Arena 06",
+        "Monster Maniacs"
+      ],
+      "master": [
+        "Anomaly Research: Volvidon",
+        "Rookie Hunters Welcome!",
+        "The Red Rolling Terror",
+        "Skulking Among the Sand",
+        "Operation Sandy Situation",
+        "Operation Sandy Plains"
+      ]
+    }
+  },
+  {
+    "name": "Wind Serpent Ibushi",
+    "image": "https://img.game8.co/3375844/3e863317cc2392b62302af93f1df0715.png/show",
+    "weakness": "dragon",
+    "quest": {
+      "low": [],
+      "high": [
+        "Serpent God of Wind",
+        "Gales of Ibushi Blow Again",
+        "Rampage: Kamura Night Hunt",
+        "Advanced: Born of Paradise",
+        "The Allmother"
+      ],
+      "master": ["Retribution"]
+    }
+  },
+  {
+    "name": "Zinogre",
+    "image": "https://img.game8.co/3375854/f5f2dfd906d9f5804946e2bbb65ff918.png/show",
+    "weakness": "xx",
+    "quest": {
+      "low": [
+        "Wavering Moon and Thunder",
+        "Electrifying Ephiphany",
+        "A Test of Courage",
+        "Special License Quest 3"
+      ],
+      "high": [
+        "Challenge Quest 02",
+        "The Blue Bomber's Best Bud",
+        "Showdown in the Arena",
+        "Learn the Long Sword",
+        "Skies Flash, Clouds Boom",
+        "A Good Old-Fashioned Rampage",
+        "Zin and Yang",
+        "Occupational Hazards",
+        "Master Utsushi's Challenge Part 1"
+      ],
+      "master": [
+        "Anomaly Research: Zinogre",
+        "Beaten to the Punch",
+        "An Ace Idea!",
+        "Sacrilegious Thunder Wolf",
+        "Twin Sparks in the Dark",
+        "Buddy Rescue Operation",
+        "Operation Zinogre",
+        "The Flame that Burns Within",
+        "Evil Forest",
+        "Operation Ogre Gore",
+        "Operation Thunder-Clad",
+        "I Need My Beauty Sleep!",
+        "Hazard: Superconductor"
+      ]
     }
   }
 ]

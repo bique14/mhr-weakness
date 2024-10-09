@@ -29,9 +29,7 @@
   }
 </script>
 
-<main
-  class="m-auto flex h-full w-10/12 flex-col items-center gap-4 bg-red-200 py-10"
->
+<main class="m-auto flex h-full w-10/12 flex-col items-center gap-4 py-10">
   <div class="flex w-full gap-2">
     <select
       class="rounded-lg border-2 border-[rgba(1,1,1,0.4)] px-2"
@@ -46,7 +44,7 @@
     />
   </div>
 
-  <div class="h-full w-full overflow-auto bg-green-200">
+  <div class="h-full w-full overflow-auto">
     <table class="w-full">
       <thead class="bg-gray-200">
         <tr>

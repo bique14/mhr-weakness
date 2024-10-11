@@ -76,7 +76,7 @@
   </div>
 
   <div class="h-full w-full overflow-auto">
-    <table class="w-full">
+    <table class="w-full bg-[#959595]">
       <thead class="bg-gray-200">
         <tr>
           <th class="sticky top-0 bg-gray-200 p-2 text-left"></th>

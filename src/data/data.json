@@ -266,7 +266,7 @@
   },
   {
     "name": "Bishaten",
-    "image": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show",
+    "image": "https://img.game8.co/3375826/32fa246d44f8b3321807e02fd038b784.png/show",
     "weakness": "ice",
     "quest": {
       "low": [
@@ -823,7 +823,7 @@
   {
     "name": "Lunagaron",
     "image": "https://img.game8.co/3542029/bb31d50499116fa61d4b9713d96ffb25.png/show",
-    "weakness": "xx",
+    "weakness": "fire",
     "quest": {
       "low": [],
       "high": [],
@@ -1657,7 +1657,7 @@
   {
     "name": "Zinogre",
     "image": "https://img.game8.co/3375854/f5f2dfd906d9f5804946e2bbb65ff918.png/show",
-    "weakness": "xx",
+    "weakness": "ice",
     "quest": {
       "low": [
         "Wavering Moon and Thunder",
